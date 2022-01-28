@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Surveying. This is my Github profile where you can find all my source code projects and repositories. As a future engineer in Geomatics and Land surveying, including GIS and Remote Sensing, I believe that coding could be very useful in automating workflows and managing errors. Wherefore I'm always learning new things, ready for discussions and making new projects.  
+My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Surveying. This is my Github profile where you can find all my source code projects and repositories. As a future engineer in Geomatics and Land surveying, including GIS and Remote Sensing, I believe that coding could be very useful in automating workflows and managing errors. Wherefore I'm always learning new things, ready for discussions and working on new projects.  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anass-yarroudh/)  
 ## Skills
 
