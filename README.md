@@ -18,7 +18,6 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35"/></div></th>
     <th><div><img src="https://miro.medium.com/max/480/1*YTnIluRNB5WWn-HhPIkoWQ.png" height="35"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mapbox_logo_2017.svg/1280px-Mapbox_logo_2017.svg.png" height="35"/></div></th>
 </table>  
 
 * Interested in
