@@ -9,16 +9,16 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
 <table>
   <tr>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="35"/></div></th>
-    <th><div><img src="https://sql.sh/wp-content/uploads/2012/12/logo-postgresql-elephant.png" height="25"/></div></th>
-    <th><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGW7laHsmriCfUFUZeMiP8Y_B5MLUU2Epa8kvbAwfcn9yfDMF9HXYv-zWBroS3tRsmVOs&usqp=CAU" height="25"/></div></th>
-    <th><div><img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" height="25"/></div></th>
-    <th><div><img src="https://www.mduvoisin.ch/images/tech/php_logo.png" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="25"/></div></th>
-    <th><div><img src="https://miro.medium.com/max/480/1*YTnIluRNB5WWn-HhPIkoWQ.png" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="25"/></div></th>
+    <th><div><img src="https://sql.sh/wp-content/uploads/2012/12/logo-postgresql-elephant.png" height="35"/></div></th>
+    <th><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGW7laHsmriCfUFUZeMiP8Y_B5MLUU2Epa8kvbAwfcn9yfDMF9HXYv-zWBroS3tRsmVOs&usqp=CAU" height="35"/></div></th>
+    <th><div><img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" height="35"/></div></th>
+    <th><div><img src="https://www.mduvoisin.ch/images/tech/php_logo.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35"/></div></th>
+    <th><div><img src="https://miro.medium.com/max/480/1*YTnIluRNB5WWn-HhPIkoWQ.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="35"/></div></th>
 </table>  
 
 * Interested in
