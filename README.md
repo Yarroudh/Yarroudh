@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Anass Yarroudh. I'm from Morocco where I'm studying Geomatics and Land Surveying. This is my Github profile where you can find all my source code projects and repositories. As a future engineer in Geomatics and Land surveying, including GIS and Remote Sensing, I believe that coding could be very useful in automating workflows and managing errors. Wherefore I'm always learning new things, ready for discussions and making new projects.  
+My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Surveying. This is my Github profile where you can find all my source code projects and repositories. As a future engineer in Geomatics and Land surveying, including GIS and Remote Sensing, I believe that coding could be very useful in automating workflows and managing errors. Wherefore I'm always learning new things, ready for discussions and making new projects.  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anass-yarroudh/)  
 ## Programming languages
 
@@ -10,7 +10,9 @@ My name is Anass Yarroudh. I'm from Morocco where I'm studying Geomatics and Lan
   <tr>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="25" height="25"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="25" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="25" height="25"/></div></th>
+    <th><div><img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" width="25" height="25"/></div></th>
+    <th><div><img src="https://w7.pngwing.com/pngs/804/652/png-transparent-postgis-postgresql-spatial-database-geoserver-postgis-blue-marine-mammal-logo.png" width="25" height="25"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25" height="25"/></div></th>
   </tr>
 </table>  
 
