@@ -18,15 +18,15 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35"/></div></th>
     <th><div><img src="https://miro.medium.com/max/480/1*YTnIluRNB5WWn-HhPIkoWQ.png" height="35"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mapbox_logo_2017.svg/1280px-Mapbox_logo_2017.svg.png" height="35"/></div></th>
 </table>  
 
 * Interested in
 
 <table>
   <tr>
-    <th><div><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" height="25"/></div></th>
-    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="25"/></div></th>
+    <th><div><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="35"/></div></th>
   </tr>
 </table>
