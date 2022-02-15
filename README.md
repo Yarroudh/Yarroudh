@@ -20,6 +20,15 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
     <th><div><img src="https://miro.medium.com/max/480/1*YTnIluRNB5WWn-HhPIkoWQ.png" height="35"/></div></th>
 </table>  
 
+* Learning
+
+<table>
+  <tr>
+    <th><div><img src="http://assets.stickpng.com/thumbs/58481021cef1014c0b5e494b.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="35"/></div></th>
+    <th><div><img src="https://fd-development.com/images/expressjs.png" height="35"/></div></th>
+</table>
+
 * Interested in
 
 <table>
@@ -27,5 +36,7 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
     <th><div><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="35"/></div></th>
+    <th><div><img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" height="35"/></div></th>
+    <th><div><img src="https://iconape.com/wp-content/files/kg/370538/svg/angular-logo-icon-png-svg.png" height="35"/></div></th>
   </tr>
 </table>
