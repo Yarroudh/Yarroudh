@@ -24,7 +24,7 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
 
 <table>
   <tr>
-    <th><div><img src="http://assets.stickpng.com/thumbs/58481021cef1014c0b5e494b.png" height="35"/></div></th>
+    <th><div><img src="http://assets.stickpng.com/images/58481021cef1014c0b5e494b.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="35"/></div></th>
     <th><div><img src="https://fd-development.com/images/expressjs.png" height="35"/></div></th>
 </table>
