@@ -26,14 +26,12 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
   <tr>
     <th><div><img src="https://webimages.mongodb.com/_com_assets/cms/kusb9stg1ndrp7j53-MongoDBLogoBrand1.png?auto=format%252Ccompress" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="35"/></div></th>
-    <th><div><img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" height="35"/></div></th>
 </table>
 
 * Interested in
 
 <table>
   <tr>
-    <th><div><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="35"/></div></th>
     <th><div><img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" height="35"/></div></th>
