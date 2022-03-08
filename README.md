@@ -35,6 +35,6 @@ My name is Anass Yarroudh. I'm from Morocco. I'm studying Geomatics and Land Sur
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" height="35"/></div></th>
     <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="35"/></div></th>
     <th><div><img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" height="35"/></div></th>
-    <th><div><img src="https://iconape.com/wp-content/files/kg/370538/svg/angular-logo-icon-png-svg.png" height="35"/></div></th>
+    <th><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="35"/></div></th>
   </tr>
 </table>
