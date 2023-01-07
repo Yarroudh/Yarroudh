@@ -4,3 +4,5 @@ My name is Anass Yarroudh. I'm a Reasearch engineer at the [Geomatics Unit of th
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anass-yarroudh/)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarroudh&show_icons=true&theme=transparent)
+
+![My Skills](https://skillicons.dev/icons?i=py,c++,javascript,react,nodejs,git)
