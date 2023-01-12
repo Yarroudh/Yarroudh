@@ -7,4 +7,4 @@ My name is Anass Yarroudh. I'm a Reasearch engineer at the [Geomatics Unit of th
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarroudh&show_icons=true&theme=transparent)
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,react,nodejs,git)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,php,react,nodejs,git)
