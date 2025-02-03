@@ -1,10 +1,9 @@
-![research-engineer](https://user-images.githubusercontent.com/72500344/211131594-0157d7f6-5032-44d3-ba89-7dd1ba36e00d.svg)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='NONE' src='https://img.shields.io/badge/Geodata_Engineer-100000?style=flat&logo=NONE&logoColor=white&labelColor=black&color=3962D6'/></a>
 
-### Hey there!
+### Who am I?
 
-My name is Anass Yarroudh. I'm a Reasearch Engineer at the [Geomatics Unit of University of Liege](http://geomatics.ulg.ac.be/). This is my Github profile where you can find all my source code projects and repositories.
-- 📫 How to reach me: <ayarroudh@uliege.be>
+My name is Anass Yarroudh. I'm a Geodata Engineer at [GIM](https://www.gim.be/fr). This is my Github profile where you can find some of my open-source projects and repositories.
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yarroudh&show_icons=true&theme=transparent)
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,php,react,nodejs,git,docker)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,nodejs,git,docker,r,pytorch,sklearn,opencv)
