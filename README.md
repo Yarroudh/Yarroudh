@@ -1,4 +1,4 @@
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='NONE' src='https://img.shields.io/badge/Geodata_Engineer-100000?style=flat&logo=NONE&logoColor=white&labelColor=black&color=3962D6'/></a>
+<a target="_blank"><img alt='NONE' src='https://img.shields.io/badge/Geodata_Engineer-100000?style=flat&logo=NONE&logoColor=white&labelColor=black&color=3962D6'/></a>
 
 ### Who am I?
 
