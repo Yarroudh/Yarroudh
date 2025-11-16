@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-My name is Anass Yarroudh. I'm a Geodata Engineer at [GIM](https://www.gim.be/fr). This is my Github profile where you can find some of my open-source projects and repositories.
+My name is Anass Yarroudh. I'm a Data Scientist & Geodata Engineer at [GIM](https://www.gim.be/fr). This is my Github profile where you can find some of my open-source projects and repositories.
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yarroudh&show_icons=true&theme=transparent)
 
