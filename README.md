@@ -2,8 +2,8 @@
 
 ### Who am I?
 
-My name is Anass Yarroudh. I'm a Data Scientist & Engineer at [GIM](https://www.gim.be/fr). This is my Github profile where you can find some of my open-source projects and repositories.
+My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at [GIM](https://www.gim.be/fr). This is my Github profile where you can find some of my open source projects and repositories.
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yarroudh&show_icons=true&theme=transparent)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yarroudh&theme=transparent)
 
 ![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,nodejs,git,docker,r,pytorch,sklearn,opencv)
