@@ -13,7 +13,7 @@ My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at
 
 > Projects exploring **Model Context Protocol (MCP)**, **AI agents**, tool integration, and agentic workflows.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Yarroudh/cityjson-mcp">
     <img src="./assets/cards/cityjson-mcp.svg" width="48%" />
   </a>
@@ -27,7 +27,7 @@ My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at
 
 > Projects focused on **data pipelines**, processing systems, data infrastructure, and engineering workflows.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Yarroudh/dataengineering">
     <img src="./assets/cards/dataengineering.svg" width="48%" />
   </a>
@@ -38,7 +38,7 @@ My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at
 
 > Projects exploring **machine learning**, **deep learning**, 3D data processing, LiDAR, and computer vision.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/akharroubi/Rail3D">
     <img src="./assets/cards/rail3d.svg" width="48%" />
   </a>
@@ -47,7 +47,7 @@ My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Yarroudh/SemanticML">
     <img src="./assets/cards/semanticml.svg" width="48%" />
   </a>
