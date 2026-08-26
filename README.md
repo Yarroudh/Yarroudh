@@ -1,4 +1,5 @@
 <a target="_blank"><img alt='NONE' src='https://img.shields.io/badge/Data Scientist-100000?style=flat&logo=NONE&logoColor=white&labelColor=black&color=3962D6'/></a>
+<a target="_blank"><img alt='NONE' src='https://img.shields.io/badge/ML Engineer-100000?style=flat&logo=NONE&logoColor=white&labelColor=black&color=3962D6'/></a>
 
 ### Who am I?
 
@@ -6,7 +7,7 @@ My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yarroudh&theme=transparent)
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,nodejs,git,docker,r,pytorch,sklearn,opencv)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,nodejs,react,nextjs,fastapi,postgres,gcp,git,githubactions,docker,r,pytorch,sklearn,opencv,tailwind&perline=9)](https://skillicons.dev)
 
 ### Collections
 #### MCP & Agentic AI
