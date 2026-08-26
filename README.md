@@ -11,7 +11,7 @@ My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at
 ### Collections
 #### MCP & Agentic AI
 
-> Projects exploring **Model Context Protocol (MCP)**, AI agents, tool integration, and agentic workflows.
+> Projects exploring **Model Context Protocol (MCP)**, **AI agents**, tool integration, and agentic workflows.
 
 <p align="center">
   <a href="https://github.com/Yarroudh/cityjson-mcp">
@@ -20,5 +20,35 @@ My name is Anass Yarroudh. I'm a Data Scientist and Machine Learning Engineer at
   &nbsp;
   <a href="https://github.com/Yarroudh/Literae">
     <img src="./assets/cards/literae.svg" width="48%" />
+  </a>
+</p>
+
+#### Data Engineering
+
+> Projects focused on **data pipelines**, processing systems, data infrastructure, and engineering workflows.
+
+<p align="center">
+  <a href="https://github.com/Yarroudh/dataengineering">
+    <img src="./assets/cards/dataengineering.svg" width="48%" />
+  </a>
+</p>
+
+
+#### ML/DL & Computer Vision
+
+> Projects exploring **machine learning**, **deep learning**, 3D data processing, LiDAR, and computer vision.
+
+<p align="center">
+  <a href="https://github.com/akharroubi/Rail3D">
+    <img src="./assets/cards/rail3d.svg" width="48%" />
+  </a>
+  <a href="https://github.com/Yarroudh/segment-lidar">
+    <img src="./assets/cards/segment-lidar.svg" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yarroudh/SemanticML">
+    <img src="./assets/cards/semanticml.svg" width="48%" />
   </a>
 </p>
