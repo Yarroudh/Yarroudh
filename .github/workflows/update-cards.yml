@@ -15,7 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate CityJSON MCP card
+      # MCP & Agentic AI
+
+      - name: Generate cityjson-mcp card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
@@ -31,10 +33,51 @@ jobs:
           path: assets/cards/literae.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Data Engineering
+
+      - name: Generate dataengineering card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=Yarroudh&repo=dataengineering&theme=transparent&hide_border=false&border_radius=12
+          path: assets/cards/dataengineering.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ML/DL & Computer Vision
+      
+      - name: Generate Rail3D card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=akharroubi&repo=Rail3D&theme=transparent&hide_border=false&border_radius=12
+          path: assets/cards/rail3d.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate segment-lidar card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=Yarroudh&repo=segment-lidar&theme=transparent&hide_border=false&border_radius=12
+          path: assets/cards/segment-lidar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate SemanticML card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=Yarroudh&repo=SemanticML&theme=transparent&hide_border=false&border_radius=12
+          path: assets/cards/semanticml.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Commit generated cards
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add assets/cards/*.svg
-          git commit -m "chore: update project cards" || exit 0
+
+          git diff --cached --quiet || \
+            git commit -m "chore: update project cards"
+
           git push
